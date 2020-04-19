@@ -1,4 +1,4 @@
 project.name=awservice
 author.name=rdevapatla
 target.version=1.7
-resource.name=Resources
+resource.name=resources
