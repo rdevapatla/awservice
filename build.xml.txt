@@ -4,7 +4,7 @@
 <property name="build" value="build"/>
 <property name="dist-location" value="${basedir}/${build}/${dist}"/>
 <property environment="env" description="System environment variables (set by Jenkins)"/>
- <!--
+ <!-- commented
 <path id="global.classpath">
 		<fileset dir="${web-inf-lib}">
 			<include name="**/*.jar" />
